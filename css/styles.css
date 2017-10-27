@@ -1,0 +1,33 @@
+* {
+	font-family: 'Amaranth', sans-serif;
+	background: #EDF3FA;
+}
+div {
+	background: white;
+	height: 50px;
+	border-left: 4px #4AC77E solid;
+	box-sizing: border-box;
+	font-family: 'Amaranth', sans-serif;
+	margin: 300px 0;
+	padding: 0 0 0 15px;
+	margin-left: 5px;
+}
+span {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 auto;
+	padding: 15px 0;
+	background: white;
+}
+.blue {
+	color: blue;
+}
+.bordo {
+	color: #C83E59;
+}
+.black {
+	color: #000000;
+}
+.red {
+	color: #FF0000;
+}
